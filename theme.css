@@ -1283,7 +1283,7 @@ color: rgba(141, 169, 212, 0.9) !important;
 }
 .callout[data-callout="summary"] {
 --c: #8e6dfd;
---callout-color: 142, 109, 253;
+--callout-color: rgb(142, 109, 253);
 border-left-color: var(--c) !important;
 background-color: rgba(167, 149, 209, 0.05) !important;
 color: rgba(167, 149, 209, 0.9) !important;
@@ -1304,7 +1304,7 @@ color: rgba(141, 169, 212, 0.9) !important;
 .callout[data-callout="tip"],
 .callout[data-callout="hint"] {
 --c: #2ea66b;
---callout-color: 46, 166, 107;
+--callout-color: rgb(46, 166, 107);
 border-left-color: var(--c) !important;
 background-color: rgba(138, 184, 157, 0.05) !important;
 color: rgba(138, 184, 157, 0.9) !important;
