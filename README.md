@@ -2,7 +2,7 @@
 
 A minimalist, nearly monochromatic Obsidian theme with clean typography and a unified checkbox set.
 
-![Screenshot](screenshot.png)
+![Screenshot](karadigm.webp)
 
 ## Features
 
