@@ -25,38 +25,6 @@ All checkboxes and callouts at a glance — dark and light mode:
 
 ![Checkbox and callout overview](obs.webp)
 
-| Code | Label |
-|------|-------|
-| `- [ ]` | to-do |
-| `- [/]` | in progress |
-| `- [x]` | done |
-| `- [-]` | cancelled |
-| `- [>]` | forwarded |
-| `- [<]` | scheduled |
-| `- [s]` | scheduled today |
-| `- [?]` | question |
-| `- [!]` | alert |
-| `- [*]` | star |
-| `- ["]` | quote |
-| `- [l]` | location |
-| `- [b]` | bookmark |
-| `- [i]` | info |
-| `- [S]` | finance |
-| `- [I]` | idea |
-| `- [p]` | pro |
-| `- [c]` | con |
-| `- [n]` | note |
-| `- [f]` | fire |
-| `- [k]` | key |
-| `- [w]` | win |
-| `- [u]` | uptrend |
-| `- [d]` | downtrend |
-| `- [0]` | 0% |
-| `- [1]` | 25% |
-| `- [2]` | 50% |
-| `- [3]` | 75% |
-| `- [4]` | 100% |
-
 ## Author
 
 [Luko Karavan](https://www.lukokaravan.cz) · [Ko-fi](https://ko-fi.com/karavan)
