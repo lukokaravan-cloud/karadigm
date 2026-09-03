@@ -27,4 +27,4 @@ All checkboxes and callouts at a glance — dark and light mode:
 
 ## Author
 
-[Luko Karavan](https://www.lukokaravan.cz) · [Ko-fi](https://ko-fi.com/karavan)
+[Luko Karavan](https://www.lukokaravan.cz/en/) · [Short stories in English](https://antihistor.substack.com) · [Ko-fi](https://ko-fi.com/karavan)
